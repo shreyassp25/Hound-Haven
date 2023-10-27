@@ -15,7 +15,7 @@
 ```
 As a pet parent, I need a consolidated place for all my pet's information.
 Each Pet needs to be separated so that I can easily see what information goes with each pet.
-I need to be able to access stored information that is inputted to allow for future changes.
+I need to be able to access stored information that is inputted to allow for future changes
 
 ```
 ## Table of Contents
